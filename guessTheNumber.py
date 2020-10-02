@@ -1,3 +1,4 @@
+#Jordan Medina; sometime in 2019
 #script will run function which generates a random integer between 1-20 _
 #(inclusive) and asks user to guess this value. Wrong answers are tallied_
 #and when correct answer results, function ends with a print statement _
